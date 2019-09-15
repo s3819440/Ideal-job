@@ -1,8 +1,3 @@
-<html>
-<body>
-
-<iframe src="https://www.seek.com.au/job/39732381?ref=saved
-">
 <!DOCTYPE html>
 <html>
 <h1> Ideal job </h1>
