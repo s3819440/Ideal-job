@@ -29,8 +29,7 @@
 
 <br />I will always be on the lookout for opportunities to further my knowledge and know how of the IT security field within my own organisation. At this point experience is what would set me apart and likely give me the edge in landing a cyber security analyst role. I will look for junior security roles, find a mentor even, ways of going about this to prepare myself.<br />
 
-<br />Finally after roughly a year or 2 in the industry I will actively start looking for positions within my own organisation as well as seek. Although I may lack the necessary years of experience, I will still boldly pursuit this career until I get it.
-.</p>
+<br />Finally after roughly a year or 2 in the industry I will actively start looking for positions within my own organisation as well as seek. Although I may lack the necessary years of experience, I will still boldly pursuit this career until I get it.</p>
 
 
 </html>
