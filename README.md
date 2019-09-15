@@ -7,7 +7,6 @@
 <!DOCTYPE html>
 <html>
 <h1> Ideal job </h1>
-</html>
 
 <p> This role as a cyber security analyst for Viiew requires the augmenting of the companies insurance clients project. Providing analysis on security intelligence, the Cyber Security Analyst will be tasked with identifying threats (insider threat and security investigation), quality vulnerabilities and the mitigation of risks to assets. As Viiew holds clients personal information in their database, the security analyst will be tasked with securing this information using a range of security support tools. </p>
 
@@ -38,5 +37,7 @@
 <br />Finally after roughly a year or 2 in the industry I will actively start looking for positions within my own organisation as well as seek. Although I may lack the necessary years of experience, I will still boldly pursuit this career until I get it.
 .</p>
 
+
+</html>
 
 
